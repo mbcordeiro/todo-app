@@ -6,4 +6,4 @@ Todo.updateOptions({
     runValidators: true
 })
 
-module.exports = Todo
+module.exports = TodoF
